@@ -6,7 +6,7 @@ This project is an enhancement system that augments AI coding agents' capabiliti
 
 Without affecting the original capabilities of AI coding agents, it integrates the thinking patterns and workflows of excellent human engineers to achieve more stable and reliable coding performance.
 
-**Usage**: Simply copy the content from the `AGENTS.md` file in the corresponding language directory to Codex's global `AGENTS.md` file. On Mac systems, the typical path is:
+**Usage**: Simply copy the content from the corresponding language directory (e.g., `zh-CN/AGENTS.md`) to Codex's global `AGENTS.md` file. On Mac systems, the typical path is:
 ```
 ~/.codex/AGENTS.md
 ```
