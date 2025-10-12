@@ -2,23 +2,39 @@
 
 [中文](README.md) | English
 
-This project is an enhancement system that augments AI coding agents' capabilities, currently targeting `Codex CLI` + `GPT-5-Codex` models.
+This project is an extension prompt that enhances the original capabilities of AI coding agents, currently optimized and tested primarily for `Claude Code` and `Codex Cli`.
 
-Without affecting the original capabilities of AI coding agents, it integrates the thinking patterns and workflows of excellent human engineers to achieve more stable and reliable coding performance.
+Integrates the mindset and workflows of excellent human engineers into AI coding agents without compromising their original capabilities, achieving more stable and reliable coding performance.
 
-**Usage**: Simply copy the content from the corresponding language directory (e.g., `zh-CN/AGENTS.md`) to Codex's global `AGENTS.md` file.
+## Usage
+Note: Due to potential conflicts with other existing configurations, it's recommended to directly replace the file.
 
-On Mac systems, the typical path is:
+### Claude Code
+Simply copy the content from the corresponding language directory (e.g., `zh-CN/CLAUDE.md`) to Codex's global `CLAUDE.md` file.
+
+On Mac, the typical path is:
+```
+~/.claude/CLAUDE.md
+```
+
+On Windows, the typical path is:
+```
+C:\users\{your username}\.claude\CLAUDE.md
+```
+
+### Codex
+Simply copy the content from the corresponding language directory (e.g., `zh-CN/AGENTS.md`) to Codex's global `AGENTS.md` file.
+
+On Mac, the typical path is:
 ```
 ~/.codex/AGENTS.md
 ```
 
-On Windows systems, the typical path is:
+On Windows, the typical path is:
 ```
 C:\users\{your username}\.codex\AGENTS.md
 ```
 
-Due to potential conflicts with other existing configurations, it's recommended to directly replace the file.
 
 ## Key Benefits
 

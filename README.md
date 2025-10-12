@@ -3,11 +3,27 @@
 中文 | [English](README.en.md)
 
 
-本项目是一套增强 AI 编程代理原有能力的扩展系统，目前主要针对 `Codex Cli` + `GPT-5-Codex` 模型。
+本项目是一套增强 AI 编程代理原有能力的扩展提示词，目前主要针对 `Claude Code` 和 `Codex Cli` 进行了优化和测试。
 
-在不影响 AI 编程代理原有能力的前提下，融入优秀人类工程师的思维方式和工作流程，以实现更稳定、可靠的编码水平。
+在不影响 AI 编程代理原有能力的前提下，为其融入优秀人类工程师的思维方式和工作流程，以实现更稳定、可靠的编码水平。
 
-**使用方法**：将对应语言目录下（如 `zh-CN/AGENTS.md` ）的内容复制到 Codex 的全局 `AGENTS.md` 中即可。
+## 使用方法
+注意：由于可能与其他原有设定冲突，建议直接替换文件。
+### ClaudeCode
+将对应语言目录下（如 `zh-CN/CLAUDE.md` ）的内容复制到 ClaudeCode 的全局 `CLAUDE.md` 中即可。
+
+在 Mac 系统上，典型路径为：
+```
+~/.claude/CLAUDE.md
+```
+
+在 Windows 系统上，典型路径为：
+```
+C:\users\你的用户名\.claude\CLAUDE.md
+```
+
+### Codex
+将对应语言目录下（如 `zh-CN/AGENTS.md` ）的内容复制到 Codex 的全局 `AGENTS.md` 中即可。
 
 在 Mac 系统上，典型路径为：
 ```
@@ -18,8 +34,6 @@
 ```
 C:\users\你的用户名\.codex\AGENTS.md
 ```
-
-由于可能与其他原有设定冲突，建议直接替换文件。
 
 ## 核心优势
 
