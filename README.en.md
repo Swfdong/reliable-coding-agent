@@ -39,7 +39,7 @@ C:\users\{your username}\.codex\AGENTS.md
 ## Key Benefits
 
 ### Non-Intrusive Enhancement
-Does not interfere with the original logic of Codex system prompts, only provides supplementary enhancements to maximize the capabilities of both the model and the agent itself.
+Does not interfere with the original logic of system prompt, only provides supplementary enhancements to maximize the capabilities of both the model and the agent itself.
 
 ### Efficiency Boost for Complex Projects
 By automatically maintaining necessary documentation and memory, it saves time and tokens from repetitive code architecture analysis and repeated modifications, enabling Coding Agents to work more effectively and purposefully based on their understanding of the documentation.
