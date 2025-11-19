@@ -35,6 +35,19 @@ C:\users\你的用户名\.claude\CLAUDE.md
 C:\users\你的用户名\.codex\AGENTS.md
 ```
 
+### Gemini Cli
+将对应语言目录下（如 `zh-CN/GEMINI.md` ）的内容复制到 Gemini Cli 的全局 `GEMINI.md` 中即可。
+
+在 Mac 系统上，典型路径为：
+```
+~/.gemini/GEMINI.md
+```
+
+在 Windows 系统上，典型路径为：
+```
+C:\users\你的用户名\.gemini\GEMINI.md
+```
+
 ## 核心优势
 
 ### 非侵入式的增强

@@ -35,6 +35,19 @@ On Windows, the typical path is:
 C:\users\{your username}\.codex\AGENTS.md
 ```
 
+### Gemini Cli
+Simply copy the content from the corresponding language directory (e.g., `zh-CN/GEMINI.md`) to Gemini Cli's global `GEMINI.md` file.
+
+On Mac, the typical path is:
+```
+~/.gemini/GEMINI.md
+```
+
+On Windows, the typical path is:
+```
+C:\users\{your username}\.gemini\GEMINI.md
+```
+
 
 ## Key Benefits
 
