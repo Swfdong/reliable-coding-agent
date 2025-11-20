@@ -2,6 +2,7 @@
 
 中文 | [English](README.en.md)
 
+> **注意：** 在 Gemini Cli + Gemini 3 pro 上，这套提示词的指令遵循效果有问题，待优化改进。
 
 本项目是一套增强 AI 编程代理原有能力的扩展提示词，目前主要针对 `Claude Code` 和 `Codex Cli` 进行了优化和测试。
 
